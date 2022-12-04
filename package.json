@@ -1,6 +1,5 @@
 {
   "name": "@portifinance/portifi-js",
-  "author": "prathik <37804760+prmali@users.noreply.github.com>",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
