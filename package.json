@@ -1,5 +1,5 @@
 {
-  "name": "@portifi/sdk",
+  "name": "@portifinance/sdk",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -14,6 +14,8 @@
   "repository": "https://github.com/PortiFinance/portifi-js.git",
   "keywords": [
     "portifi",
+    "portifinance",
+    "defi",
     "ethereum"
   ],
   "scripts": {
