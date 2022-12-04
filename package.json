@@ -1,5 +1,5 @@
 {
-  "name": "@portifinance/sdk",
+  "name": "@portifinance/portifi-js",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
